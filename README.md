@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @appsteve
 - 👀 I’m interested in quantum physics, future tech, and classic British comedy.
-- 🌱 I’m currently learning frameworks (e.g. CompfyUI. Flux, etc) for app development.
+- 🌱 I’m currently learning frameworks (e.g. CompfyUI. Flux, etc) for AI Tools.
 - 📫 You can reach me on Instagram at @SteveAtwal
 
 <!---
